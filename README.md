@@ -6,7 +6,7 @@
 <img width="40px"><a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="Left">
- <img width="550" align="top" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30&color=000000">
+ <img width="550" align="top" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30&color=27b1bf">
 
   <img align="left" src="https://orhun.dev/img/crow.png">
 </p>
