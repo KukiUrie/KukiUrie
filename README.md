@@ -27,6 +27,4 @@ I'm a **Biomedical Engineer**, graduated in **2025** from **Universidad Autonoma
 
 
 
-## Projects
-
 
