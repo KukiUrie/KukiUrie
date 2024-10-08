@@ -19,7 +19,7 @@
 
 
 
-### Sobre mi
+### About me 
 
 I'm a **Biomedical Engineer**, graduated in **2025** from **Universidad Autonoma de Occidente** and **Big Data Analyst**.In my free time I like to watch movies, read blogs and participate in online contests. I am open to collaborating on interesting projects.
 
